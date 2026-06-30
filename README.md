@@ -82,7 +82,7 @@ This project strengthened my understanding of:
 
 ## Author
 
-**Ashley Mapesa**
+**Arsheley Mapesa**
 
 Electrical and Electronic Engineering Student
 
